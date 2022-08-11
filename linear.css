@@ -1,0 +1,22 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.a {
+    background-image: repeating-linear-gradient(to top right, red 59%, yellow, green);
+}
+
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.b {
+    background-image:linear-gradient(to top,blue,green,white)
+}
